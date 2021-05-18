@@ -1,1 +1,1 @@
-# Technology
+# Technology - A static website
